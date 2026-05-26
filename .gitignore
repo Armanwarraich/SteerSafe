@@ -1,0 +1,4 @@
+hf_deploy/
+venv/
+__pycache__/
+*.pyc

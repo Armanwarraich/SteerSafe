@@ -1,0 +1,14 @@
+torch
+torchvision
+opencv-python
+dlib
+imutils
+scipy
+streamlit
+pygame
+numpy
+pandas
+matplotlib
+seaborn
+gradio
+onnxruntime
